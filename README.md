@@ -26,7 +26,5 @@ This repo has a breast cancer prediction project leveraging machine learning tec
 - Matplotlib
 - Seaborn
 
-## About
-Breast cancer prediction project developed to support early detection and proactive management of breast cancer. It was created by [Your Name] to contribute to the advancement of healthcare through data-driven predictive analytics.
 
 ---
